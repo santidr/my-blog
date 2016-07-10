@@ -1,0 +1,39 @@
+header {
+    background: #34495E;
+    padding: 15px 0;
+    margin-bottom: 20px;
+}
+
+header h1 a {
+    color: #f2f2f2;
+    font-family: 'Lobster', cursive;
+}
+
+header h1 a:hover {
+    color: #fff;
+}
+
+main article h2 a {
+    color: steelblue;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+aside {
+    padding: 10px;
+    border-left: 1px solid #ddd;
+}
+
+aside h3 {
+    color: #019875;
+}
+
+aside .sidebar-post {
+    margin: 40px 0;
+}
+
+aside .sidebar-post img {
+    width: 100%;
+}
